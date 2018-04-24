@@ -27,7 +27,7 @@
     "coveralls": "^2.11.8",
     "eslint": "^4.3.0",
     "istanbul": "^0.4.2",
-    "lodash": "^4.6.1",
+    "lodash": "^4.17.9",
     "mocha": "^4.0.0",
     "should": "^11.2.1"
   },
