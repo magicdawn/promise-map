@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/magicdawn/promise.map#readme",
   "devDependencies": {
-    "chance": "^1.0.1",
+    "chance": "^1.0.14",
     "coveralls": "^2.11.8",
     "eslint": "^4.3.0",
     "istanbul": "^0.4.2",
